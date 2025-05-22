@@ -3,7 +3,8 @@
 This repository contains Data Structures and Algorithms (DSA) Track.  
 
 ## 📚 Topics Covered  
-- Arrays & Strings  
+- Arrays
+- Strings  
 
 ## ⚙️ Language Used
 - C++
