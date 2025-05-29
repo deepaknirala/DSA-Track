@@ -8,7 +8,7 @@ bool isArmstrong(int num) {
     int k = to_string(num).length();
     int sum = 0; 
     int n = num;
-    // digit of the number
+
     while(n > 0){
         int ld = n % 10;
         sum += pow(ld, k); 
