@@ -15,12 +15,11 @@ int gcd(int n1, int n2) {
         }
     }
     // If no common factors are found,
-    // return 1 (as 1 is always a
-    // divisor of any number)
+    // return 1 (as 1 is always a divisor of any number)
     return 1;
 }
 //Time complexity will be O(min(N1, N2))
-//this approach is spmewhat better than brute force approach but its still not optimal.
+//this approach is somewhat better than brute force approach but its still not optimal.
 int main() {
     int num1, num2;
     cout << "Enter two integers: ";
