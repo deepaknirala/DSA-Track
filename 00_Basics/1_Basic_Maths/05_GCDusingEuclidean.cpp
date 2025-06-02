@@ -15,8 +15,7 @@ int gcd(int a, int b) {
         // If b is greater than or equal
         // to a, subtract a from b and update b
         else {
-            // Update b to the remainder
-            // of b divided by a
+            // Update b to the remainder of b by a
             b = b % a; 
         }
     }
