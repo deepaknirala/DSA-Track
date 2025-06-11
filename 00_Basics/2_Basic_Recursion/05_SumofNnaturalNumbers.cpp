@@ -1,4 +1,4 @@
-//Functional way to find the sum of first n natural numbers using recursion.
+//Problem Statement: Functional way to find the sum of first n natural numbers using recursion.
 #include <iostream>
 using namespace std;
 
